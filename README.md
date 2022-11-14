@@ -13,7 +13,7 @@ Here I am presenting my master thesis - it's a work in field of Robotics, Comput
 -Instruction code for Denso robot. In this case robotic arm controller code is 
      a client and execute command from python server application (Socket communication)
  
--In main Python script  there is a training mode(additional simullation enviroment without 3d represenation - algorithm of Reinforcement Learning was Proximal Policy Optimization - PPO), and test mode where it communicate with Unity HMI application and providing commands.
+-In main Python script  there is a training mode(additional simulation environment without 3d representation - algorithm of Reinforcement Learning was Proximal Policy Optimization - PPO), and test mode where it communicate with Unity HMI application and providing commands.
  
 -Unity application that represent HMI with graphical commands for moving object(manual and automatic mode)
   
