@@ -8,6 +8,7 @@ Here I am presenting my master thesis - it's a work in field of Robotics, Comput
 -Computer vision algorithm for acquisition of environment(positional information about objects in the work field).
      Python Code developed with OpenCV library. This application
      communicate directly with Unity HMI application and send positions of objects.
+     This code I run on Raspberry Pi computer with Pi Camera.
  
 -Instruction code for Denso robot. In this case robotic arm controller code is 
      a client and execute command from python server application (Socket communication)
