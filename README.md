@@ -4,10 +4,12 @@ Reinforcement learning with computer vision for planning the robot grasp - Maste
 Here I am presenting my master thesis - it's a work in field of Robotics, Computer Vision and Machine Learning:
     -Unity simulation environment for training reinforcement model(link -https://youtu.be/kCQyoG26nUw)
  
-    -Computer vision algorithm for acquisition of environment(positional information about objects in the work field). Python Code developed with OpenCV library. This application
-   communicate directly with Unity HMI application and send positions of objects.
+    -Computer vision algorithm for acquisition of environment(positional information about objects in the work field).
+     Python Code developed with OpenCV library. This application
+     communicate directly with Unity HMI application and send positions of objects.
  
-    -Instruction code for Denso robot. In this case robotic arm controller code is a client and execute command from python server application (Socket communication)
+    -Instruction code for Denso robot. In this case robotic arm controller code is 
+     a client and execute command from python server application (Socket communication)
  
     -Main script where is a training mode(additional simullation enviroment without 3d represenation),
  
